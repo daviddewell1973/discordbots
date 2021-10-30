@@ -1,0 +1,2 @@
+name: Deploy DynamoDb API CRUD
+on:
